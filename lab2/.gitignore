@@ -1,0 +1,11 @@
+CPU.o
+driver.o
+fcfs
+list.o
+priority_rr
+rr
+schedule_fcfs.o
+schedule_priority_rr.o
+schedule_rr.o
+schedule_sjf.o
+sjf
